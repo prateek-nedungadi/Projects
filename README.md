@@ -4,6 +4,14 @@ This repository is a portfolio of product concepts, interactive prototypes, vent
 
 ## Projects
 
+### Instagram Dailies
+
+*Meta Contract*
+
+Conceived and prototyped with Codex a five-feature MVP that gives long-distance friends one asynchronous daily photo prompt inside an Instagram group chat. Translated three user pain points into a product objective and five-step journey, evaluated four solution directions, and scoped the MVP around daily prompts, camera responses, shared answers, reactions, and an archive. Presented the product strategy and interactive prototype to Meta Friends product and engineering leads, winning Best Prototype and Best Presentation.
+
+[View presentation (PDF)](assets/Instagram%20Dailies%20Pitch.pdf)
+
 ### FreshRoute AI
 
 *NYU Product Management Club Case Competition*
@@ -12,17 +20,9 @@ Led 0-to-1 product definition for an IoT- and AI-powered freshness management pl
 
 [View presentation (PDF)](assets/Product%20Team%20-%20Case%20Competition%20Round%201%20Submission%20Slidedeck.pdf)
 
-### Instagram Dailies
-
-*Meta product prototype*
-
-Conceived and prototyped with Codex a five-feature MVP that gives long-distance friends one asynchronous daily photo prompt inside an Instagram group chat. Translated three user pain points into a product objective and five-step journey, evaluated four solution directions, and scoped the MVP around daily prompts, camera responses, shared answers, reactions, and an archive. Presented the product strategy and interactive prototype to Meta Friends product and engineering leads, winning Best Prototype and Best Presentation.
-
-[View presentation (PDF)](assets/Instagram%20Dailies%20Pitch.pdf)
-
 ### Contrarian Venture Thesis
 
-*Space manufacturing and reusable heat shields · NYU Stern Entrepreneurial Exchange Group*
+*Covering space manufacturing and reusable heat shields at NYU Stern Entrepreneurial Exchange Group*
 
 Developed a contrarian investment thesis on space manufacturing by mapping the low-Earth-orbit production value chain from launch and microgravity processing through product return. Researched companies across the sector, identified reentry thermal protection as a structural bottleneck, and argued for reusable heat shields that combine lightweight deployable structures, drag deceleration, and radiative heat dissipation, highlighting Space Forge and Stoke Space as representative approaches.
 
@@ -30,7 +30,7 @@ Developed a contrarian investment thesis on space manufacturing by mapping the l
 
 ### Fermeate Startup Investment Pitch
 
-*NYU Stern Entrepreneurial Exchange Group*
+*Covering Fermeate's Optogenetic Control of Precision Fermentation at NYU Stern Entrepreneurial Exchange Group*
 
 Built a startup investment pitch on Fermeate, a precision fermentation company using tunable, reversible light to control microbial gene expression during fermentation. Framed limited capacity and high expansion costs as the market problem, assessed a hardware-plus-machine-learning product that identifies optimal light patterns, modeled the addressable market and a potential strategic exit, and evaluated competitive, technical, and commercialization risks alongside opportunities in government grants and bioreactor partnerships.
 
