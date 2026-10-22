@@ -38,7 +38,7 @@ Developed a contrarian investment thesis on space manufacturing by mapping the l
 
 ### Fermeate Startup Investment Memo
 
-Fermeate and Optogenetic Control of Precision Fermentation · NYU Stern Entrepreneurial Exchange Group*
+*Fermeate and Optogenetic Control of Precision Fermentation · NYU Stern Entrepreneurial Exchange Group*
 
 Built a startup investment pitch on Fermeate, a precision fermentation company using tunable, reversible light to control microbial gene expression during fermentation. Framed limited capacity and high expansion costs as the market problem, assessed a hardware-plus-machine-learning product that identifies optimal light patterns, modeled the addressable market and a potential strategic exit, and evaluated competitive, technical, and commercialization risks alongside opportunities in government grants and bioreactor partnerships.
 
