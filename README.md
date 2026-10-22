@@ -12,11 +12,11 @@ Conceived and prototyped with Codex a five-feature MVP that gives long-distance 
 
 [View presentation (PDF)](assets/Instagram%20Dailies%20Pitch.pdf)
 
-### Apple Health BioSync Product Development
+### Apple Health BioSync
 
-*Associate Product Manager · NYU Product Management Club*
+*Associate Product Manager · Apple Health*
 
-Developed BioSync, a 0-to-1 feature concept for Apple Health that gives users a calendar-style view of their complete health history, including hourly breakdowns, custom date ranges, trend summaries, and configurable dashboards. Interviewed four users to identify problems with data accuracy, customization, interpretation, and visibility, then translated those findings into prioritized MVP features, an interactive prototype, success metrics, stakeholder planning, a release roadmap, and growth and revenue hypotheses.
+Developed BioSync, a 0-to-1 feature concept for Apple Health through NYU Product Management Club that gives users a calendar-style view of their complete health history, including hourly breakdowns, custom date ranges, trend summaries, and configurable dashboards. Interviewed four users to identify problems with data accuracy, customization, interpretation, and visibility, then translated those findings into prioritized MVP features, an interactive prototype, success metrics, stakeholder planning, a release roadmap, and growth and revenue hypotheses.
 
 [Download presentation (PPTX)](assets/Prateek%20Nedungadi%20Presentation.pptx)
 
